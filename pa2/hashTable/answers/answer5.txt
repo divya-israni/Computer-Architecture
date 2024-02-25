@@ -1,0 +1,37 @@
+Not enough stock of Chromatica
+Not enough stock of Chromatica
+Not enough stock of Chromatica
+Current stock of Chromatica: 5
+Current stock of Grace: 31
+Resizing the table from 8 to 16
+Not enough stock of Chromatica
+Not enough stock of Chromatica
+Not enough stock of Bleach
+Current stock of Post: 9
+Not enough stock of Grace
+Resizing the table from 16 to 32
+Current stock of SAWAYAMA: 9
+Not enough stock of KiCk i
+Not enough stock of SAWAYAMA
+Not enough stock of Grace
+No stock of Icedancer
+Not enough stock of SAWAYAMA
+Not enough stock of Grace
+Not enough stock of Icedancer
+Not enough stock of Icedancer
+-------- FINAL COUNTS --------
+Chromatica: 24
+Grace: 64
+Bleach: 31
+The OOZ: 71
+Post: 51
+Charli: 72
+SAWAYAMA: 0
+KiCk iiii: 65
+Mezzanine: 108
+Nevermind: 7
+KiCk i: 26
+Debut: 31
+Homogenic: 30
+Icedancer: 40
+------------------------------

@@ -1,0 +1,257 @@
+32
+RESTOCK 45 KiCk iiiii
+SALE 47 KiCk iiiii
+SALE 38 KiCk iiiii
+SHOW_STOCK 0 KiCk iiiii
+SALE 43 KiCk iiiii
+SHOW_STOCK 0 KiCk iiiii
+SALE 2 KiCk iiiii
+RESTOCK 43 Charli
+SALE 33 KiCk iiiii
+RESTOCK 27 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 10 KiCk iiiii
+SALE 21 KiCk iiiii
+SALE 8 KiCk iiiii
+SALE 7 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 4 Dummy
+SALE 15 KiCk iiiii
+RESTOCK 13 Back to Black
+SHOW_STOCK 0 Back to Black
+RESTOCK 19 Grace
+SALE 17 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 14 Random Access Memories
+SALE 23 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 34 Random Access Memories
+RESTOCK 15 Charli
+SALE 36 Dummy
+RESTOCK 5 KiCk ii
+SHOW_STOCK 0 Charli
+RESTOCK 48 Back to Black
+SALE 15 Dummy
+SALE 34 Back to Black
+RESTOCK 9 The OOZ
+SALE 29 Back to Black
+SALE 19 KiCk ii
+RESTOCK 48 Back to Black
+RESTOCK 25 Voulez-Vous
+RESTOCK 46 Bleach
+SALE 21 OIL OF EVERY PEARL'S UN-INSIDES
+SHOW_STOCK 0 Bleach
+SALE 19 Voulez-Vous
+SHOW_STOCK 0 KiCk ii
+RESTOCK 41 Dummy
+SALE 22 Voulez-Vous
+RESTOCK 6 10,000 gecs
+SALE 41 KiCk ii
+SHOW_STOCK 0 Random Access Memories
+SALE 9 Back to Black
+RESTOCK 44 10,000 gecs
+RESTOCK 38 MAGDALENE
+RESTOCK 7 Chromatica
+SALE 4 Bleach
+RESTOCK 10 The OOZ
+SALE 5 Bleach
+SALE 10 KiCk iiiii
+RESTOCK 3 how i'm feeling now
+SALE 45 Back to Black
+SHOW_STOCK 0 how i'm feeling now
+SALE 19 KiCk ii
+RESTOCK 4 10,000 gecs
+SALE 3 Voulez-Vous
+SHOW_STOCK 0 Grace
+RESTOCK 23 Chromatica
+RESTOCK 18 KiCk ii
+SALE 8 Bleach
+SALE 22 Voulez-Vous
+RESTOCK 38 Chromatica
+SALE 5 how i'm feeling now
+SHOW_STOCK 0 Charli
+SALE 34 Voulez-Vous
+SALE 45 The OOZ
+SHOW_STOCK 0 Back to Black
+SALE 35 KiCk ii
+SALE 9 Random Access Memories
+RESTOCK 31 EXETER
+RESTOCK 49 Wlfgrl
+RESTOCK 35 Post
+SALE 39 Charli
+RESTOCK 21 Fossora
+RESTOCK 22 The OOZ
+SALE 47 KiCk ii
+RESTOCK 29 KiCk i
+RESTOCK 4 MAGDALENE
+RESTOCK 13 Wlfgrl
+SALE 8 10,000 gecs
+RESTOCK 49 Debut
+SALE 33 Charli
+RESTOCK 34 Wlfgrl
+RESTOCK 2 Bleach
+SALE 44 Debut
+SHOW_STOCK 0 10,000 gecs
+RESTOCK 45 OIL OF EVERY PEARL'S UN-INSIDES
+SHOW_STOCK 0 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 4 The OOZ
+RESTOCK 5 Back to Black
+SALE 8 how i'm feeling now
+RESTOCK 41 Debut
+RESTOCK 35 Bleach
+RESTOCK 1 Post
+RESTOCK 39 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 22 KiCk i
+SHOW_STOCK 0 Charli
+SALE 23 Charli
+SALE 35 how i'm feeling now
+SALE 15 Charli
+SALE 47 Chromatica
+RESTOCK 23 Grace
+RESTOCK 29 Dummy
+RESTOCK 16 Dummy
+RESTOCK 32 Chromatica
+SALE 24 Charli
+RESTOCK 45 KiCk iiiii
+RESTOCK 49 KiCk i
+SALE 6 Back to Black
+RESTOCK 45 Vespertine
+RESTOCK 2 Fossora
+SALE 14 EXETER
+SALE 37 Wlfgrl
+RESTOCK 38 KiCk iiiii
+SALE 27 KiCk i
+RESTOCK 19 Grace
+RESTOCK 47 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 44 how i'm feeling now
+SALE 10 Back to Black
+SALE 22 Chromatica
+SALE 46 MAGDALENE
+SALE 37 KiCk iiiii
+RESTOCK 37 Charli
+SALE 9 EXETER
+SALE 38 Chromatica
+RESTOCK 24 KiCk ii
+RESTOCK 33 Charli
+SALE 17 Dummy
+SHOW_STOCK 0 The OOZ
+RESTOCK 5 Debut
+SHOW_STOCK 0 how i'm feeling now
+SHOW_STOCK 0 Voulez-Vous
+SALE 18 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 13 Wlfgrl
+SALE 34 Chromatica
+SALE 21 Post
+RESTOCK 27 Bleach
+RESTOCK 17 how i'm feeling now
+RESTOCK 35 Fossora
+SALE 13 Grace
+SHOW_STOCK 0 Chromatica
+RESTOCK 35 Post
+RESTOCK 44 10,000 gecs
+SALE 19 Post
+SHOW_STOCK 0 10,000 gecs
+SALE 47 Voulez-Vous
+RESTOCK 28 The OOZ
+SHOW_STOCK 0 KiCk iiiii
+SALE 10 Grace
+RESTOCK 31 Vespertine
+SHOW_STOCK 0 Random Access Memories
+SALE 48 Grace
+RESTOCK 3 Bleach
+SALE 38 Charli
+SALE 5 Debut
+SHOW_STOCK 0 Charli
+RESTOCK 4 KiCk i
+RESTOCK 6 Voulez-Vous
+SALE 22 Charli
+RESTOCK 18 Debut
+RESTOCK 4 KiCk ii
+SHOW_STOCK 0 KiCk i
+SALE 47 Bleach
+RESTOCK 42 Debut
+SALE 36 Fossora
+RESTOCK 40 Grace
+SALE 22 Fossora
+SALE 42 EXETER
+RESTOCK 2 EXETER
+SALE 39 Fossora
+SALE 32 KiCk i
+RESTOCK 5 Debut
+RESTOCK 29 Chromatica
+RESTOCK 42 Wlfgrl
+SALE 15 KiCk iiiii
+SALE 37 KiCk iiiii
+RESTOCK 48 The OOZ
+SALE 3 10,000 gecs
+SALE 36 EXETER
+RESTOCK 10 Charli
+RESTOCK 13 Voulez-Vous
+SHOW_STOCK 0 10,000 gecs
+SALE 15 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 11 The OOZ
+SALE 16 10,000 gecs
+SHOW_STOCK 0 Grace
+RESTOCK 42 Back to Black
+SALE 11 KiCk i
+RESTOCK 18 Debut
+SALE 23 Vespertine
+RESTOCK 48 KiCk iii
+RESTOCK 8 KiCk ii
+SALE 27 Bleach
+SALE 4 Vespertine
+RESTOCK 18 Post
+RESTOCK 31 Post
+SALE 33 Vulnicura
+RESTOCK 17 Voulez-Vous
+RESTOCK 16 KiCk i
+RESTOCK 35 EXETER
+RESTOCK 11 Vespertine
+SALE 43 Dummy
+RESTOCK 16 MAGDALENE
+RESTOCK 39 Wlfgrl
+SALE 34 Vulnicura
+SALE 20 Charli
+SALE 45 Random Access Memories
+SALE 40 MAGDALENE
+SHOW_STOCK 0 Random Access Memories
+RESTOCK 48 Voulez-Vous
+SHOW_STOCK 0 Wlfgrl
+SALE 6 Wlfgrl
+SALE 41 KiCk iiiii
+SHOW_STOCK 0 KiCk iii
+SALE 1 Random Access Memories
+RESTOCK 10 Grace
+SALE 10 KiCk iiiii
+SALE 26 Random Access Memories
+RESTOCK 32 1000 gecs
+SALE 18 Dummy
+SHOW_STOCK 0 Wlfgrl
+RESTOCK 25 EXETER
+SALE 2 how i'm feeling now
+SALE 20 how i'm feeling now
+SALE 17 1000 gecs
+RESTOCK 21 Dummy
+SALE 23 Wlfgrl
+SALE 41 Debut
+RESTOCK 31 Vespertine
+SALE 4 Fossora
+SHOW_STOCK 0 Chromatica
+SALE 21 The OOZ
+SHOW_STOCK 0 Random Access Memories
+SHOW_STOCK 0 Fossora
+SALE 27 Vulnicura
+SALE 41 Post
+SHOW_STOCK 0 KiCk iiiii
+RESTOCK 16 Dummy
+SALE 7 Debut
+SALE 35 KiCk i
+RESTOCK 8 KiCk iiiii
+RESTOCK 37 Charli
+SALE 42 The OOZ
+SALE 33 Charli
+RESTOCK 3 KiCk iii
+RESTOCK 39 KiCk ii
+SALE 20 1000 gecs
+RESTOCK 47 EXETER
+SALE 8 Debut
+RESTOCK 35 KiCk iiiii
+RESTOCK 17 how i'm feeling now
+SALE 14 Chromatica
+SALE 20 Debut

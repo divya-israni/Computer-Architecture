@@ -1,0 +1,108 @@
+Not enough stock of KiCk iiiii
+Current stock of KiCk iiiii: 7
+Not enough stock of KiCk iiiii
+Current stock of KiCk iiiii: 7
+Not enough stock of KiCk iiiii
+Not enough stock of KiCk iiiii
+Not enough stock of KiCk iiiii
+Not enough stock of KiCk iiiii
+Not enough stock of KiCk iiiii
+Current stock of Back to Black: 13
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Random Access Memories
+Not enough stock of Dummy
+Current stock of Charli: 58
+Not enough stock of Dummy
+Not enough stock of Back to Black
+Not enough stock of KiCk ii
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Current stock of Bleach: 46
+Current stock of KiCk ii: 5
+Not enough stock of Voulez-Vous
+Not enough stock of KiCk ii
+Current stock of Random Access Memories: 14
+Not enough stock of KiCk iiiii
+Current stock of how i'm feeling now: 3
+Not enough stock of KiCk ii
+Current stock of Grace: 19
+Not enough stock of Voulez-Vous
+Not enough stock of how i'm feeling now
+Current stock of Charli: 58
+Not enough stock of Voulez-Vous
+Not enough stock of The OOZ
+Current stock of Back to Black: 21
+Not enough stock of KiCk ii
+Resizing the table from 32 to 64
+Not enough stock of KiCk ii
+Not enough stock of Charli
+Current stock of 10,000 gecs: 46
+Current stock of OIL OF EVERY PEARL'S UN-INSIDES: 48
+Not enough stock of how i'm feeling now
+Current stock of Charli: 19
+Not enough stock of Charli
+Not enough stock of how i'm feeling now
+Not enough stock of Charli
+Not enough stock of MAGDALENE
+Not enough stock of Chromatica
+Current stock of The OOZ: 37
+Current stock of how i'm feeling now: 47
+Current stock of Voulez-Vous: 3
+Not enough stock of Chromatica
+Current stock of Chromatica: 31
+Current stock of 10,000 gecs: 90
+Not enough stock of Voulez-Vous
+Current stock of KiCk iiiii: 51
+Current stock of Random Access Memories: 5
+Not enough stock of Grace
+Current stock of Charli: 36
+Current stock of KiCk i: 33
+Not enough stock of EXETER
+Not enough stock of Fossora
+Not enough stock of KiCk iiiii
+Not enough stock of EXETER
+Current stock of 10,000 gecs: 87
+Current stock of Grace: 78
+Not enough stock of KiCk i
+No stock of Vulnicura
+No stock of Vulnicura
+Not enough stock of Random Access Memories
+Current stock of Random Access Memories: 5
+Current stock of Wlfgrl: 127
+Not enough stock of KiCk iiiii
+Current stock of KiCk iii: 48
+Not enough stock of Random Access Memories
+Current stock of Wlfgrl: 121
+Not enough stock of Fossora
+Current stock of Chromatica: 60
+Current stock of Random Access Memories: 4
+Current stock of Fossora: 0
+No stock of Vulnicura
+Current stock of KiCk iiiii: 26
+Not enough stock of KiCk i
+Not enough stock of 1000 gecs
+-------- FINAL COUNTS --------
+KiCk iiiii: 69
+Charli: 8
+OIL OF EVERY PEARL'S UN-INSIDES: 101
+Dummy: 49
+Back to Black: 52
+Grace: 88
+Random Access Memories: 4
+KiCk ii: 98
+The OOZ: 39
+Voulez-Vous: 87
+Bleach: 22
+10,000 gecs: 71
+MAGDALENE: 18
+Chromatica: 46
+how i'm feeling now: 59
+EXETER: 117
+Wlfgrl: 98
+Post: 39
+Fossora: 0
+KiCk i: 17
+Debut: 53
+Vespertine: 91
+KiCk iii: 51
+1000 gecs: 15
+------------------------------

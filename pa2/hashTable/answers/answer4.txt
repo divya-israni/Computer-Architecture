@@ -1,0 +1,26 @@
+Not enough stock of Nevermind
+Not enough stock of Nevermind
+Current stock of Nevermind: 5
+Not enough stock of Nevermind
+Current stock of Nevermind: 5
+Resizing the table from 4 to 8
+Not enough stock of Mezzanine
+Not enough stock of Nevermind
+Not enough stock of Nevermind
+Not enough stock of Portishead
+Resizing the table from 8 to 16
+Not enough stock of Mezzanine
+Current stock of Nevermind: 1
+Not enough stock of Dummy
+No stock of KiCk iii
+No stock of KiCk iii
+Not enough stock of Mezzanine
+-------- FINAL COUNTS --------
+Nevermind: 16
+Mezzanine: 18
+Portishead: 66
+Grace: 2
+Dummy: 57
+KiCk ii: 65
+Fossora: 37
+------------------------------

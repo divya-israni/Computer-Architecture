@@ -1,0 +1,65 @@
+8
+RESTOCK 5 Chromatica
+SALE 14 Chromatica
+SALE 27 Chromatica
+SALE 24 Chromatica
+RESTOCK 31 Grace
+SHOW_STOCK 0 Chromatica
+SHOW_STOCK 0 Grace
+RESTOCK 21 Bleach
+RESTOCK 9 Bleach
+RESTOCK 23 The OOZ
+SALE 35 Chromatica
+SALE 8 Chromatica
+RESTOCK 9 Post
+SALE 39 Bleach
+SALE 7 Grace
+SHOW_STOCK 0 Post
+RESTOCK 46 Bleach
+SALE 48 Grace
+RESTOCK 16 Post
+RESTOCK 44 Charli
+SALE 13 Post
+SALE 34 Bleach
+RESTOCK 15 Bleach
+RESTOCK 9 SAWAYAMA
+RESTOCK 22 KiCk iiii
+RESTOCK 33 Mezzanine
+RESTOCK 20 Charli
+RESTOCK 39 Charli
+RESTOCK 39 Post
+RESTOCK 19 Charli
+SALE 27 Charli
+SALE 3 Bleach
+RESTOCK 45 Nevermind
+RESTOCK 8 KiCk iiii
+RESTOCK 26 KiCk i
+RESTOCK 42 The OOZ
+RESTOCK 40 Mezzanine
+SALE 45 Nevermind
+RESTOCK 7 Nevermind
+SHOW_STOCK 0 SAWAYAMA
+SALE 16 Charli
+SALE 41 KiCk i
+SALE 14 SAWAYAMA
+SALE 11 Mezzanine
+RESTOCK 46 The OOZ
+SALE 27 Grace
+RESTOCK 19 Chromatica
+SALE 40 The OOZ
+RESTOCK 2 Debut
+SALE 12 Icedancer
+SALE 42 SAWAYAMA
+SALE 49 Grace
+RESTOCK 40 Grace
+SALE 9 SAWAYAMA
+RESTOCK 30 Homogenic
+RESTOCK 6 Icedancer
+SALE 7 Charli
+SALE 23 Bleach
+RESTOCK 34 Icedancer
+RESTOCK 35 KiCk iiii
+SALE 41 Icedancer
+SALE 41 Icedancer
+RESTOCK 29 Debut
+RESTOCK 46 Mezzanine

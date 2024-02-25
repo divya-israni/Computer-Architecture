@@ -1,0 +1,33 @@
+4
+RESTOCK 5 Nevermind
+SALE 17 Nevermind
+SALE 14 Nevermind
+SHOW_STOCK 0 Nevermind
+SALE 27 Nevermind
+SHOW_STOCK 0 Nevermind
+RESTOCK 23 Mezzanine
+SALE 32 Mezzanine
+RESTOCK 32 Portishead
+SALE 28 Nevermind
+SALE 7 Nevermind
+SALE 42 Portishead
+RESTOCK 9 Grace
+RESTOCK 10 Dummy
+RESTOCK 34 Portishead
+SALE 40 Mezzanine
+SALE 5 Mezzanine
+SALE 4 Nevermind
+SALE 2 Grace
+SHOW_STOCK 0 Nevermind
+SALE 5 Grace
+RESTOCK 15 Nevermind
+SALE 33 Dummy
+SALE 5 Dummy
+SHOW_STOCK 0 KiCk iii
+RESTOCK 20 Dummy
+RESTOCK 49 KiCk ii
+RESTOCK 32 Dummy
+RESTOCK 37 Fossora
+SALE 12 KiCk iii
+RESTOCK 16 KiCk ii
+SALE 46 Mezzanine
